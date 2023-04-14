@@ -1,6 +1,6 @@
 <?php return array (
   'user' => 'test',
-  'password' => 'wangwang',
+  'password' => '111111',
   'host' => 'https://vercel-7ghost.vercel.app/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
