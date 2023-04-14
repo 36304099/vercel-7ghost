@@ -1,7 +1,7 @@
 <?php return array (
-  'user' => 'test',
-  'password' => '123456',
-  'host' => 'https://kns.cnki.net/',
+  'user' => 'alex',
+  'password' => 'wangwang',
+  'host' => 'https://vercel-7ghost.vercel.app/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
