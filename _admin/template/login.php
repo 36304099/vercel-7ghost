@@ -2,14 +2,14 @@
 <table cellspacing="0">
 <tbody>
 <!--
-<tr><th>ำรปงร๛</th><td><input name="username" value="">
+<tr><th>็ปๅฝ•</th><td><input name="username" value="">
 </td></tr>
 -->
-<tr><th>รÜย๋ฃบ</th><td><input type="password" name="password"><input type="submit" value="ตวยผ">
+<tr><th>็ปๅฝ•ๅฏ็ </th><td><input type="password" name="password"><input type="submit" value="ยตรรยผ">
 </td></tr>
 </tbody></table>
 	<!--
-<p><input type="submit" value="ตวยผ">
+<p><input type="submit" value="ยตรรยผ">
 </p><div></div>
 -->
 </form>
