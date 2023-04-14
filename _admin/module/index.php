@@ -13,7 +13,7 @@ class index{
 				header("Location:/_admin/?m=site&a=index");
 				exit();
 			}
-			echo "密码错误";
+			echo "password error.密码错误";
 		}
 		include tpl('login');
 	}
