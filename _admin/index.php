@@ -12,12 +12,13 @@
 	}
 	session_start();
 	//判断是否登录
-	if(empty($_SESSION['Jzb6spHwTmm2LUkMPAk2H1uCRhoA'])){
+/*	if(empty($_SESSION['Jzb6spHwTmm2LUkMPAk2H1uCRhoA'])){
 		include ('./module/index.php');
 		$m = new index();
 		$m->actionLogin();
 		exit();
 	}
+*/
 	if(@include ('./module/'.$_GET['m'].'.php')){
 		$m = new $_GET['m']();
 	 	$a = empty($_GET['a'])?'actionIndex':'action'.$_GET['a'];
