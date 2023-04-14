@@ -1,5 +1,5 @@
 <?php return array (
-  'user' => 'alex',
+  'user' => 'test',
   'password' => 'wangwang',
   'host' => 'https://vercel-7ghost.vercel.app/',
   'replaceDomain' => '0',
